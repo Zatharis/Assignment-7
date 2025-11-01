@@ -23,6 +23,34 @@ tr td {
     background-color: yellow;
 }
 
-.networ
+.Networking {
+    background-color: rgb(98,128,0);
+}
 
+.Networking#Test {
+    background-color: #00693c;
+}
 
+.Java {
+    background-color: green;
+}
+
+.SCC {
+    background-color: red;
+}
+
+.Data{
+    background-color: red;
+}
+
+.Law {
+    background-color: blue;
+}
+
+.Work {
+    background-color: hsl(39,100%,50%);
+}
+
+#Doctors {
+    background-color: pink;
+}
