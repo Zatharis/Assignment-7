@@ -5,6 +5,14 @@ Web 110 - 002
 Assignment 7
 
 Color pallet:
+black
+yellow
+green
+college green #00693c
+red
+blue
+creamsicle orange hsl(35,100%,50%)
+pink
 
 
 
@@ -48,7 +56,7 @@ tr td {
 }
 
 .Work {
-    background-color: hsl(39,100%,50%);
+    background-color: hsl(35, 100%, 50%);
 }
 
 #Doctors {
