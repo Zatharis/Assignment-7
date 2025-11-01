@@ -14,11 +14,16 @@ blue
 creamsicle orange hsl(35,100%,50%)
 pink
 
+1. border and padding for tables
 
+2. background colors for classes
 
 
 */
 
+
+
+/* 1. border and padding for tables */
 table th {
     padding: 0 0 0 20px;
 }
@@ -27,6 +32,7 @@ tr td {
     border: 1px solid black;
 }
 
+/* 2. background colors for classes and events */
 .WebDev {
     background-color: yellow;
 }
