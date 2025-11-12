@@ -65,6 +65,16 @@ tr td {
     background-color: hsl(35, 100%, 50%);
 }
 
+.Social {
+    background-color: lightblue;
+}
+
 #Doctors {
     background-color: pink;
+}
+
+/* 3. centering text */
+
+th, td {
+    text-align: center;
 }
